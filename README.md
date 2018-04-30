@@ -1,3 +1,7 @@
+# Ph.D. Research
+
+Welcome to Edwin Weill's Ph.D. research site.  This website is a repository containing resources, code, papers, documentation, and explanations utilized for completion of the Ph.D. Dissertation.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eweill/phd-research-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

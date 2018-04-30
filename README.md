@@ -11,6 +11,16 @@ Welcome to Edwin Weill's Ph.D. research site.  This website is a repository cont
 
 ## Documentation
 
+### Proposal
+
+* [Ph.D. Proposal Document]() - coming soon...
+* [Ph.D. Proposal Presentation]() - coming soon... 
+
+### Dissertation
+
+* [Ph.D Dissertation Document]() - coming soon...
+* [Ph.D Dissertation Presentation]() - coming soon...
+
 <a name="research">
 
 ## Research

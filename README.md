@@ -25,6 +25,8 @@ Welcome to Edwin Weill's Ph.D. research site.  This website is a repository cont
 
 ## Research
 
+* [DAC Challenge](projects/dac.md)
+
 <a name="resources">
 
 ## Resources

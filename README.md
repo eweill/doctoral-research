@@ -31,6 +31,7 @@ Welcome to Edwin Weill's Ph.D. research site.  This website is a repository cont
 
 ## Resources
 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/eweill/phd-research-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

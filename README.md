@@ -3,7 +3,21 @@
 Welcome to Edwin Weill's Ph.D. research site.  This website is a repository containing resources, code, papers, documentation, and explanations utilized for completion of the Ph.D. Dissertation.
 
 
-  * 
+  * <a href="#documentation">Documentation</a>
+  * <a href="#research">Research</a>
+  * <a href="#resources">Resources</a>
+
+<a name="documentation">
+
+## Documentation
+
+<a name="research">
+
+## Research
+
+<a name="resources">
+
+## Resources
 
 ## Welcome to GitHub Pages
 

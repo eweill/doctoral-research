@@ -13,8 +13,8 @@ Welcome to Edwin Weill's Ph.D. research site.  This website is a repository cont
 
 ### Proposal
 
-* [Ph.D. Proposal Document]() - coming soon...
-* [Ph.D. Proposal Presentation]() - coming soon... 
+* [Ph.D. Proposal Document](https://drive.google.com/open?id=1pj0TaFCr7APWInJg3aZ7i5krZ_5SDTeW)
+* [Ph.D. Proposal Presentation](https://drive.google.com/open?id=14TapGaQ2NDzFs384HUVxfoaA7bLvbvFt)
 
 ### Dissertation
 
